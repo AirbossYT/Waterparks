@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Waterparks</ModName>
+  <ModDiscription>Different pieces to make your own waterpark!</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Waterparks@Deck</OBJName>
+      <Type>deco</Type>
+      <inGameName>Pool Deck</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Waterparks</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Waterparks@Water</OBJName>
+      <Type>deco</Type>
+      <inGameName>Water</inGameName>
+      <price>5</price>
+      <grid>true</grid>
+      <snapCenter>true</snapCenter>
+      <category>Waterparks</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+  </Objects>
+</Mod>
